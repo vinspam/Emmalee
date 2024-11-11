@@ -1,0 +1,401 @@
+{
+  "heroData": {
+    "bgImgLink": "/images/background/hero-bg.jpg",
+    "imgLink": "/images/section/hero-img.jpg",
+    "title": "Emmalee <br /> Bonderud",
+    "subTitle": "Hello, I’m",
+    "designation": "Full-Stack Developer"
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.jpg",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Hi There! I'm Emmalee Bonderud",
+    "subtitle": "Full-Stack Developer",
+    "text": "Dynamic and innovative Full Stack Developer with over 9 years of experience in designing and deploying scalable SaaS, B2B platforms, and web applications. Adept at leveraging a broad tech stack, including JavaScript, TypeScript, Python, Java, and cloud platforms like AWS, Azure, and GCP, to build highly responsive and secure applications. Expert in both frontend and backend development with advanced skills in modern frameworks such as React, Angular, Django, and Spring Boot.",
+    "details": [
+      {
+        "title": "Gender",
+        "info": "Male"
+      },
+      {
+        "title": "Job",
+        "info": "freelancer"
+      },
+      {
+        "title": "Phone",
+        "info": "+1 872 222-9495"
+      },
+      {
+        "title": "Email",
+        "info": "emmaleebonderud@gmail.com"
+      },
+      {
+        "title": "Language",
+        "info": "English"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "/images/icon/icon1.png",
+        "title": "Web Development",
+        "text": "Build responsive and scalable web applications using modern frameworks and technologies, ensuring a seamless user experience across all devices.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/icon/icon2.png",
+        "title": "API Development",
+        "text": "Design and implement robust APIs to facilitate seamless communication between front-end and back-end systems, enhancing application functionality.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/icon/icon3.png",
+        "title": "Database Management",
+        "text": "Create and manage databases, ensuring efficient data storage, retrieval, and security, while optimizing performance for data-driven applications.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/icon/icon4.png",
+        "title": "UI/UX Design",
+        "text": "I focus on understanding users' needs and behaviors to improve the user experience and design interfaces that are not only visually appealing but also functional.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/icon/icon5.png",
+        "title": "Cloud Services",
+        "text": "Utilize cloud platforms for hosting and deploying applications, ensuring scalability and reliability while managing server configurations and resources.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/icon/icon6.png",
+        "title": "Maintenance and Support",
+        "text": "Provide ongoing maintenance and support for applications, addressing bugs, updates, and performance enhancements to ensure optimal operation.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "These are my general skills needed for web develop",
+    "text": "As a versatile web developer skilled in both front-end and back-end technologies, I have the ability to design and build robust, dynamic applications that enhance user experience while effectively addressing the diverse needs and business objectives of my clients. My expertise enables me to create responsive websites that seamlessly integrate functionality and aesthetics, ensuring a comprehensive solution for every project.",
+    "skills": [
+      {
+        "title": "Javascript",
+        "progress": "100%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "Typescript",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "MongoDB",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "Express",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "React.js",
+        "progress": "100%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "Node.js",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "/images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio7.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio8.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio9.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio10.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio11.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio12.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio13.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio14.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio15.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/client/client1.png",
+        "title": "Jaron Gaston",
+        "designation": "Marketing Manager at Tech Innovations",
+        "text": "Working with Emmalee Bonderud was a fantastic experience. Their attention to detail and creativity helped us transform our website into a user-friendly platform that truly represents our brand."
+      },
+      {
+        "imgLink": "/images/client/client2.png",
+        "title": "Zikri Nik",
+        "designation": "CEO at Creative Solutions",
+        "text": "Emmalee Bonderud did an outstanding job on our project. He expertise in web development allowed us to deliver a powerful application that exceeded our expectations!"
+      },
+      {
+        "imgLink": "/images/client/client3.png",
+        "title": "Emily Patel",
+        "designation": "Product Owner at Smart Tech",
+        "text": "I was thoroughly impressed by Emmalee Bonderud's dedication and skill. They not only met our deadlines but also provided valuable insights that enhanced our user experience."
+      },
+      {
+        "imgLink": "/images/client/client4.png",
+        "title": "Jack Brown",
+        "designation": "Head of IT at Hoshi",
+        "text": "Our experience with Emmalee Bonderud was outstanding. They took the time to understand our needs and delivered a high-quality solution that has streamlined our operations significantly."
+      },
+      {
+        "imgLink": "/images/client/client5.png",
+        "title": "James Smith",
+        "designation": "Project Manager at Design Hub",
+        "text": "Emmalee Bonderud went above and beyond on our website redesign. Their innovative ideas and technical skills resulted in a site that is both beautiful and highly functional."
+      },
+      {
+        "imgLink": "/images/client/client6.png",
+        "title": "Lisa White",
+        "designation": "Founder at StartUp Ventures",
+        "text": "I highly recommend Emmalee Bonderud. They provided excellent service and support throughout the development process and their passion for the project was unparalleled."
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "Full Stack Developer",
+        "duration": "Sep 2022 – July 2024",
+        "subTitle": "Zennaxx Technology",
+        "text": "(Kingston, ON, Canada)"
+      },
+      {
+        "title": "Full Stack Developer",
+        "duration": "Jun 2020 - Sep 2022",
+        "subTitle": "RipenApps",
+        "text": "(Kingston, ON, Canada)"
+      },
+      {
+        "title": "Full Stack Developer",
+        "duration": "Apr 2016- May 2020",
+        "subTitle": "GrowthKings",
+        "text": "(Kingston, ON, Canada)"
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "Bachelor's Degree, Information Technology",
+        "duration": "",
+        "subTitle": "Queen’s University",
+        "text": "(25 Main St W Unit 1215, Hamilton, ON, Canada)"
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visite my social profile and get connected",
+    "text": "I’m always open to discussing new projects, innovative ideas, or opportunities to be part of your vision. Feel free to reach out!"
+  },
+  "socialData": [
+    {
+      "icon": "dribbble",
+      "title": "Dribbble",
+      "link": "/"
+    },
+    {
+      "icon": "behance",
+      "title": "Behance",
+      "link": "/"
+    },
+    {
+      "icon": "twitter",
+      "title": "Twitter",
+      "link": "/"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/emmalee-bonderud-31a5b632b/"
+    }
+  ]
+}
