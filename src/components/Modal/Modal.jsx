@@ -1,9 +1,9 @@
-import './Modal.scss';
+import "./Modal.scss";
 
-const Modal = ({ img, title, subTitle, modalClose }) => {
+const Modal = ({ img, title, subTitle, modalClose, pageLink }) => {
   const modalStyle = {
-    backgroundColor: 'rgba(0,0,0,0.8)',
-    display: 'block',
+    backgroundColor: "rgba(0,0,0,0.8)",
+    display: "block",
   };
   return (
     <div className="modal show fade bd-example-modal-lg" style={modalStyle}>
@@ -19,7 +19,13 @@ const Modal = ({ img, title, subTitle, modalClose }) => {
           </div>
           <div className="modal-body">
             <div className="st-flex-center">
-              <img src={img} />
+              <a href={pageLink} target="_blank" rel="noopener noreferrer">
+                <img
+                  src={img}
+                  alt="Clickable image"
+                  style={{ cursor: "pointer" }}
+                />
+              </a>
             </div>
             <p className="modal-subtitle">{subTitle}</p>
           </div>

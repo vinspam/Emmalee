@@ -139,138 +139,153 @@
     "portfolioItems": [
       {
         "imgLink": "/images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio1.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "200"
+        "delay": "200",
+        "pageLink": "https://powervet.vercel.app/"
       },
       {
         "imgLink": "/images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio2.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "300"
+        "delay": "300",
+        "pageLink": "https://quickbarber.vercel.app/"
       },
       {
         "imgLink": "/images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio3.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "400"
+        "delay": "400",
+        "pageLink": "https://geoway.vercel.app/"
       },
       {
         "imgLink": "/images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "500"
+        "delay": "500",
+        "pageLink": "https://drivex-cars.vercel.app/"
       },
       {
         "imgLink": "/images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio5.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "600"
+        "delay": "600",
+        "pageLink": "https://gamtech.vercel.app/"
       },
       {
         "imgLink": "/images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio6.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "700"
+        "delay": "700",
+        "pageLink": "https://cinedex.vercel.app/"
       },
       {
         "imgLink": "/images/portfolio/portfolio7.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio7.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "200"
+        "delay": "200",
+        "pageLink": "https://hotefy.vercel.app/"
       },
       {
         "imgLink": "/images/portfolio/portfolio8.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio8.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "300"
+        "delay": "300",
+        "pageLink": "https://delimix.vercel.app/"
       },
       {
         "imgLink": "/images/portfolio/portfolio9.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio9.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "400"
+        "delay": "400",
+        "pageLink": "https://rlc.edu/"
       },
       {
         "imgLink": "/images/portfolio/portfolio10.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio10.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "500"
+        "delay": "500",
+        "pageLink": "https://www.flyplatoon.com/"
       },
       {
         "imgLink": "/images/portfolio/portfolio11.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio11.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "500"
+        "delay": "500",
+        "pageLink": "https://matrixworld.org/"
       },
       {
         "imgLink": "/images/portfolio/portfolio12.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio12.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "500"
+        "delay": "500",
+        "pageLink": "https://matrixworld.org/"
       },
       {
         "imgLink": "/images/portfolio/portfolio13.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio13.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "500"
+        "delay": "500",
+        "pageLink": ""
       },
       {
         "imgLink": "/images/portfolio/portfolio14.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio14.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "500"
+        "delay": "500",
+        "pageLink": "https://robustswap.com/"
       },
       {
         "imgLink": "/images/portfolio/portfolio15.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio15.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "500"
+        "delay": "500",
+        "pageLink": "https://robustswap.com/"
       }
     ]
   },
