@@ -378,24 +378,9 @@
   },
   "socialData": [
     {
-      "icon": "dribbble",
-      "title": "Dribbble",
-      "link": "/"
-    },
-    {
-      "icon": "behance",
-      "title": "Behance",
-      "link": "/"
-    },
-    {
-      "icon": "twitter",
-      "title": "Twitter",
-      "link": "/"
-    },
-    {
       "icon": "linkedin",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/emmalee-bonderud-31a5b632b/"
+      "link": "https://www.linkedin.com/in/ emmalee-bonderud-424692336/"
     }
   ]
 }
